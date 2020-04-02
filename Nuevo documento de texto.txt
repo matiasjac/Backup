@@ -1,0 +1,7 @@
+para actualizar archivo
+git add y el nombre del archivo
+
+para guardar git commit
+https://www.chess.com/live?#g=4640237437
+
+
